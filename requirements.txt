@@ -1,0 +1,8 @@
+streamlit>=1.51,<2
+streamlit-webrtc>=0.69.5,<1
+av>=15.1,<18
+opencv-python>=4.8,<6
+numpy>=1.26,<3
+deepface>=0.0.102,<1
+spotipy>=2.24,<3
+python-dotenv>=1,<2

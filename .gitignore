@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+user_preferences.json
+.spotify_cache*
+.cache*
+__pycache__/
+*.pyc
+.venv/
+venv/
+backup-before-v3-*/
+archive/
