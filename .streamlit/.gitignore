@@ -1,0 +1,22 @@
+
+# Secrets and environment variables
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Spotify authentication cache
+.spotify_cache
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/credentials.toml
+
+# OS files
+.DS_Store
+Thumbs.db
